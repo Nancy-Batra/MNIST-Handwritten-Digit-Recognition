@@ -1,7 +1,5 @@
 # MNIST Handwritten Digit Recognition
 
-## Project Overview
-
 This project recognizes handwritten digits (0–9) using the MNIST dataset. A Convolutional Neural Network (CNN) was developed to classify handwritten digit images with high accuracy. The project also includes a Tkinter GUI that allows users to upload an image of a handwritten digit and receive the predicted digit with a confidence score.
 
 ## Features
@@ -83,7 +81,3 @@ The GUI allows users to:
 - Develop a web application
 - Train with additional handwritten datasets
 - Improve preprocessing for noisy images
-
-## Author
-
-Nancy Batra
